@@ -14,7 +14,7 @@ The AMCAT dataset offers a comprehensive overview of the educational backgrounds
 -	Skill Evaluation: Scores in English, logical reasoning, quantitative aptitude, and domain-specific knowledge evaluate the candidates' job-relevant competencies.
 -	Personality Traits: Measures of conscientiousness, agreeableness, extraversion, neuroticism, and openness provide a psychometric assessment that can influence job performance.
 
-[Dataset Link]
+[Dataset Link](AMCAT_data.xlsx)
 
 <br />
 
@@ -51,7 +51,7 @@ I uncovered key insights into how education, experience, and job location influe
 ---
 <br />
 
-Please check out the **[Full Report]** for Further Explanation!<br />
+Please check out the **[Full Report](AMCAT_Analysis.pdf)** for Further Explanation!<br />
 \
 Your Thoughts and Feedback are highly appreciated! :smile:<br />
 
