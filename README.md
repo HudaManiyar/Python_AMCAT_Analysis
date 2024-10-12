@@ -46,7 +46,7 @@ Conducted In Depth Exploratory Data Analysis Including Data Cleaning, Univariate
 
 **Conclusion**
 
-I uncovered key insights into how education, experience, and job location influence salary distribution and employability trends.
+Key insights into how education, experience, and job location influence salary distribution and employability trends.
 
 ---
 <br />
